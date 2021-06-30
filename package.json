@@ -6,7 +6,7 @@
     "packages/my-contracts",
     "packages/arbitrum/packages/arb-bridge-eth",
     "packages/arbitrum/packages/arb-bridge-peripherals",
-    "packages/arbitrum/packages/arb-os/contractsy"
+    "packages/arbitrum/packages/arb-os/contracts"
   ],
   "scripts": {
     "compile": "yarn workspace my-contracts hardhat compile"

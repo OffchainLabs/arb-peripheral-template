@@ -3,7 +3,7 @@ pragma solidity ^0.6.11;
 
 import "hardhat/console.sol";
 import "arb-bridge-peripherals/contracts/tokenbridge/ethereum/gateway/L1GatewayRouter.sol";
-
+import "arbos-contracts/arbos/builtin/ArbSys.sol";
 
 contract Oracle {
   address router;
