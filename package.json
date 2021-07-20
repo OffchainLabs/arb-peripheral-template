@@ -3,6 +3,7 @@
   "name": "arb-peripheral-contracts",
   "version": "1.0.0",
   "workspaces": [
+    "packages/fast-exit",
     "packages/my-contracts",
     "packages/arbitrum/packages/arb-bridge-eth",
     "packages/arbitrum/packages/arb-bridge-peripherals",
