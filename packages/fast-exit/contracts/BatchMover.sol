@@ -22,7 +22,7 @@ import "./MMR.sol";
 import "arb-bridge-peripherals/contracts/tokenbridge/arbitrum/StandardArbERC20.sol";
 import "arb-bridge-peripherals/contracts/tokenbridge/arbitrum/gateway/L2ArbitrumGateway.sol";
 
-import "arb-bridge-peripherals/contracts/buddybridge/ethereum/L1Buddy.sol";
+import "buddy-bridge/contracts/ethereum/L1Buddy.sol";
 
 import "arbos-contracts/arbos/builtin/ArbSys.sol";
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
