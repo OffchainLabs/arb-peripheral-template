@@ -4,6 +4,8 @@
   "version": "1.0.0",
   "workspaces": [
     "packages/my-contracts",
+    "packages/fast-exit",
+    "packages/buddy-bridge",
     "packages/arbitrum/packages/arb-bridge-eth",
     "packages/arbitrum/packages/arb-bridge-peripherals",
     "packages/arbitrum/packages/arb-os/contracts"
